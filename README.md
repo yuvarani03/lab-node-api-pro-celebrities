@@ -34,23 +34,10 @@ The user should be able to:
 **4. Update existing celebrities**\
 **5. Delete celebrities**
 
-But wait! That's not all!
-
-Once we have our celebrities, we need something for them to do!
-Let's make up some movie ideas for our celebrities to star in.  
-That means we'll need all the basic CRUD actions for movies as well.  
-
-The user should be able to:
-
-**6. See the list of movies.**\
-**7. See the details of a movie.**\
-**8. Add new movies.**\
-**9. Update existing movies.**\
-**10. Delete movies.**\
 
 ## Instructions
 
-### Iteration 0 | Initialize the project
+### PROGRESSION #0 | Initialize the project
 
 Setup the project using `npm init`  and add `Express` server.
 
@@ -168,7 +155,6 @@ Here are the routes we will be using:
 
 At this point, we have implemented all the basic CRUD actions for the Celebrity model in our app.  Nice work!
 
-Now that we've done all this good work, it's time to do it all over again, but for the Movie model.  After all, what's the point of having all these celebrities if we can't make up fake movies to cast them in?
 ## Submission
 
 If you didn't add, commit and push the changes you made, this is the last call. :smile:
