@@ -75,7 +75,7 @@ Here's the route we will be using:
 |-----------|-----------|-----------------|
 | `/celebrities` |    GET    | Show all celebrities |
 
-### Steps we will follow in this iteration:
+### Steps we will follow in this progression:
 
 1. Locate the `/celebrities` GET route in `routes/celebrities.js`.
 2. In the route callback:
@@ -93,7 +93,7 @@ Here's the route we will be using:
 | `/celebrities/:id` |    GET    | Show a specific celebrity |
 
 
-### Steps we will follow in this iteration:
+### Steps we will follow in this progression:
 
 1. Create the `/celebrities/:id` GET route in `routes/celebrities.js`.
 2. In the route callback:
@@ -117,7 +117,7 @@ Now that we have a list of celebrities, a celebrity details page, and a page to 
 |----------------------|-----------|-------------------------|
 | `/celebrities/:id/delete` |   POST    | Delete a specific celebrity |
 
-### Steps we will follow in this iteration:
+### Steps we will follow in this progression:
 
 1. Create the `/celebrities/:id/delete` POST route in your `routes/celebrities.js` file
 2. In that route's callback:
@@ -137,7 +137,7 @@ Here are the routes we will be using:
 |   `/celebrities/:id`    |   PUT    | Send the data to this route to update and save the celebrity from the database         |
 
 
-### Steps we will follow in this iteration:
+### Steps we will follow in this progression:
 
 1. Create the `/celebrities/:id/edit` GET route in `routes/celebrities.js`.
 2. In that route's callback:
